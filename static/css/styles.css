@@ -312,14 +312,14 @@ section.grey:after {
 .app.box .btn {
   margin: 0px 4px 0px 0px;
 }
-body > footer,
+body footer,
 html {
   background-color: #7a7a7a;
 }
-body > footer {
+body footer {
   border-top: 1px solid #686868;
 }
-body > footer .container {
+body footer .container {
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -483,12 +483,12 @@ ul.users li a {
   .app.box p {
     margin-left: 220px;
   }
-  body > footer {
+  body footer {
     margin-left: -20px;
     margin-right: -20px;
     text-align: center;
   }
-  body > footer .container {
+  body footer .container {
     padding-left: 20px;
     padding-right: 20px;
   }
@@ -639,20 +639,20 @@ ul.users li a {
     }
 }
 
-body > footer {
+body footer {
     margin-top: 10px;
 }
 
-body > footer ul {
+body footer ul {
     color: rgb(205, 205, 205);
     list-style: none;
 }
 
-body > footer li > a {
+body footer li > a {
     color: rgb(205, 205, 205);
 }
 
-body > footer li > a:hover {
+body footer li > a:hover {
     color: rgb(205, 205, 205);
 }
 
